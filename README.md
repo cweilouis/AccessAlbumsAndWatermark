@@ -1,0 +1,2 @@
+# AccessAlbumsAndWatermark
+AccessAlbumsAndWatermark_访问相册或拍照并添加水印保存图片
